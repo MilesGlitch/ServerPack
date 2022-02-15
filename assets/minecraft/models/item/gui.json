@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "block/gui"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 15.9375],
+			"to": [32, 32, 16],
+			"faces": {
+				"north": {"uv": [11, 11, 0, 0], "rotation": 180, "texture": "#texture"},
+				"south": {"uv": [0, 0, 11, 11], "texture": "#texture"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"translation": [72, -62, -80],
+			"scale": [3.66, 3.66, 3.66]
+		}
+	}
+}

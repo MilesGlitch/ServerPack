@@ -1,0 +1,112 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/k1.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE251"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/m1.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE252"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/m2.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE253"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/w1.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE254"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/allplayers.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE855"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/s1.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE880"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/u1.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE890"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/icons/tab/vr.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE901"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/l1.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE899"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/m3.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE902"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/p1.png",
+			"ascent": 8,
+			"height": 8,
+            "chars": ["\uE903"]
+		},
+		{ "type": "bitmap", "file": "font/icons/deelter/deelter.png", "ascent": 10, "height": 12, "chars": [ "\uE488" ] },
+	
+		{ "type": "bitmap", "file": "font/icons/chat/message.png", "ascent": 8, "height": 8, "chars": [ "\uE100" ] },	
+		{ "type": "bitmap", "file": "font/icons/chat/discord_message.png", "ascent": 8, "height": 8, "chars": [ "\uE101" ] },	
+		{ "type": "bitmap", "file": "font/icons/chat/warn.png", "ascent": 8, "height": 8, "chars": [ "\uE102" ] },
+		{ "type": "bitmap", "file": "font/icons/chat/night.png", "ascent": 8, "height": 8, "chars": [ "\uE106" ] },
+		{ "type": "bitmap", "file": "font/icons/chat/notify.png", "ascent": 8, "height": 8, "chars": [ "\uE107" ] },
+		
+		{ "type": "bitmap", "file": "font/icons/chat/dice/dice.png", "ascent": 8, "height": 10, "chars": [ "\uE108" ] },
+		{ "type": "bitmap", "file": "font/icons/chat/dice/dice2.png", "ascent": 8, "height": 10, "chars": [ "\uE109" ] },
+		{ "type": "bitmap", "file": "font/icons/chat/dice/dice3.png", "ascent": 8, "height": 10, "chars": [ "\uE110" ] },
+		{ "type": "bitmap", "file": "font/icons/chat/dice/dice4.png", "ascent": 8, "height": 10, "chars": [ "\uE111" ] },
+		{ "type": "bitmap", "file": "font/icons/chat/dice/dice5.png", "ascent": 8, "height": 10, "chars": [ "\uE112" ] },
+		{ "type": "bitmap", "file": "font/icons/chat/dice/dice6.png", "ascent": 8, "height": 10, "chars": [ "\uE113" ] },
+		
+		{ "type": "bitmap", "file": "font/icons/tab/gray_player.png", "ascent": 8, "height": 10, "chars": [ "\uE114" ] },
+		{ "type": "bitmap", "file": "font/icons/title/whatisit.png", "ascent": 42, "height": 64, "chars": [ "\uE792" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/default/player.png", "ascent": 7, "height": 8, "chars": [ "\uE201" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/default/moderator.png", "ascent": 7, "height": 8, "chars": [ "\uE202" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/default/admin.png", "ascent": 7, "height": 8, "chars": [ "\uE203" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/halloween/pumpkin.png", "ascent": 7, "height": 8, "chars": [ "\uE204" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/steve.png", "ascent": 7, "height": 8, "chars": [ "\uE205" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/alex.png", "ascent": 7, "height": 8, "chars": [ "\uE206" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/halloween/ghost.png", "ascent": 7, "height": 8, "chars": [ "\uE207" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/winter/sock.png", "ascent": 7, "height": 8, "chars": [ "\uE208" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/winter/snowman.png", "ascent": 7, "height": 8, "chars": [ "\uE209" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/winter/gift.png", "ascent": 7, "height": 8, "chars": [ "\uE210" ] },
+		{ "type": "bitmap", "file": "font/icons/tab/winter/santa.png", "ascent": 7, "height": 8, "chars": [ "\uE211" ] },
+		{ "type": "bitmap", "file": "font/screen/shade.png", "ascent": 142, "height": 256, "chars": [ "\uE599" ] },
+		{ "type": "bitmap", "file": "font/screen/white.png", "ascent": 142, "height": 256, "chars": [ "\uE501" ] },
+		{ "type": "bitmap", "file": "font/screen/herobrine.png", "ascent": 80, "height": 200, "chars": [ "\uE502" ] }
+	]
+}
