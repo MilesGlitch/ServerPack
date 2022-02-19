@@ -1,0 +1,202 @@
+{
+  "music.custom.changed.01": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music01",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.02": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music02",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.03": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music03",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.04": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music04",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.05": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music05",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.06": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music06",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.07": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music07",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.08": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music08",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.09": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music09",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.10": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music10",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.11": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music11",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.12": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music12",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.13": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music13",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.14": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music14",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.15": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music15",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.16": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music16",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.17": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music17",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.18": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music18",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.19": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music19",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.20": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music20",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.21": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music21",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.changed.22": {
+    "sounds": [
+      {
+        "name": "music/custom/changed/music22",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.sonic.01": {
+    "sounds": [
+      {
+        "name": "music/custom/sonic/hill",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.sonic.02": {
+    "sounds": [
+      {
+        "name": "music/custom/sonic/hill2",
+        "stream": true
+      }
+    ]
+  },
+  "music.custom.sonic.03": {
+    "sounds": [
+      {
+        "name": "music/custom/sonic/hill3",
+        "stream": true
+      }
+    ]
+  }
+}
